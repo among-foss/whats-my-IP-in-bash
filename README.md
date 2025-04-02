@@ -10,3 +10,12 @@ A simple **bash** script to know your public IP (v4) address using **privacy-res
 
 ## Requirements
 *Curl* is required for this script to work as intended.
+
+On Debian:
+```sudo apt install curl```
+
+On Fedora:
+```sudo dnf install curl```
+
+On Arch:
+```sudo pacman -S curl```
