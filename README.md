@@ -9,4 +9,4 @@ A simple **bash** script to know your public IP (v4) address using **privacy-res
 4. run ```ip.sh```
 
 ## Requirements
-*Curl* is required for this script to execute as intended.
+*Curl* is required for this script to work as intended.
