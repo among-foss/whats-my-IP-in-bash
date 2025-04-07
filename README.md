@@ -1,5 +1,5 @@
 # What's my IP in bash
-A simple **bash** script to know your public IP (v4) address using **privacy-respecting** websites provided by [private.coffee](https://private.coffee/membership.html), [adminforge.de](https://adminforge.de/unterstuetzen/), [artemislena.eu](https://artemislena.eu).
+A simple **bash** script to know your public IP (v4) address using **privacy-respecting** websites provided by [private.coffee](https://private.coffee/membership.html), [adminforge.de](https://adminforge.de/unterstuetzen/), [artemislena.eu](https://artemislena.eu) and [hostux.net](https://liberapay.com/valere_hostux/).
 
 ## How-to
 
